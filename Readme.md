@@ -20,6 +20,9 @@ Al tener la cuenta ya creada, sa saca la clave API
 Ingresamos a la plataforma de ([Circle.CI](https://circleci.com)) y la unimos con GitHub, al finalizar la union agregamos un proyecto(El de la pagina web)
 
 ![](img/2.PNG)
+
+Para asociar el usuario copiamos la clave API y La ponemos en CircleCI 
+
 ![](img/3.PNG)
 
 Para esto cremos la carpeta .circleci y dentro de esta creamos el archivo config.yml
